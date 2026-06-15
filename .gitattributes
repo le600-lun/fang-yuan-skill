@@ -1,0 +1,3 @@
+# 文件来源
+# 调研文件是基于用户提供的本地txt文件生成的，包含大量小说原文引用
+references/research/*.md filter=lfs diff=lfs merge=lfs -text
