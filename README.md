@@ -44,7 +44,7 @@
 ### 方式一：一行命令（推荐）
 
 ```bash
-npx skills add alchaincyf/fang-yuan-skill
+npx skills add le600-lun/fang-yuan-skill
 ```
 
 支持 Claude Code、Codex、Cursor、GitHub Copilot、OpenCode 等 50+ 兼容 runtime。
@@ -52,7 +52,7 @@ npx skills add alchaincyf/fang-yuan-skill
 ### 方式二：手动安装
 
 ```bash
-git clone https://github.com/alchaincyf/fang-yuan-skill ~/.claude/skills/fang-yuan-perspective/
+git clone https://github.com/le600-lun/fang-yuan-skill ~/.claude/skills/fang-yuan-perspective/
 ```
 
 ### 方式三：直接粘贴
@@ -186,6 +186,14 @@ fang-yuan-skill/
 MIT — 随便用，随便改，随便造。
 
 <br>
+
+## ⚠️ 版权声明
+
+本 Skill 基于《蛊真人》小说文本提炼，原始版权归作者**蛊真人**所有。本仓库仅提取了书中角色的**思维框架和认知模式**，不包含小说正文内容（调研数据仅含分析结论和短片段引用，用于学术性的文本分析目的）。若版权方认为有任何侵权之处，请联系我删除。
+
+联系方式：[提交 GitHub Issue](https://github.com/le600-lun/fang-yuan-skill/issues)
+
+---
 
 ## 关于作者
 
