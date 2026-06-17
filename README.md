@@ -52,8 +52,18 @@ npx skills add le600-lun/fang-yuan-skill
 ### 方式二：手动安装
 
 ```bash
-git clone https://github.com/le600-lun/fang-yuan-skill ~/.claude/skills/fang-yuan-perspective/
+git clone https://github.com/le600-lun/fang-yuan-skill <your-skills-dir>/fang-yuan-perspective/
 ```
+
+常用 runtime 的 skills 目录路径：
+
+| Runtime | 安装路径 |
+|---------|---------|
+| Claude Code | `~/.claude/skills/fang-yuan-perspective/` |
+| Codex | `~/.codex/skills/fang-yuan-perspective/` |
+| Cursor | `~/.cursor/skills/fang-yuan-perspective/` |
+| OpenCode | `~/.opencode/skills/fang-yuan-perspective/` |
+| 其他 | 请参考对应 runtime 文档 |
 
 ### 方式三：直接粘贴
 
